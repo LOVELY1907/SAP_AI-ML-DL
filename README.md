@@ -2,39 +2,45 @@
 This REPO contains notes of AI ML DL training in SAP
 
 
-#steps in Machine learning or Deep learning</br>
+Steps in Machine learning or Deep learning:</br>
+
+
 #step1: data injestion</br>
 #step2: data cleaning</br>
 #step3: preprocessing / EDA </br>
 #step4: model building </br>
 
 #steps in data cleaning:</br>
-#null values,duplicate rows, unintended rows</br>
+1. null values</br>
+2. duplicate rows</b>
+3. unintended rows</br>
 
 #steps in preprocessing:</p>
-#scaling: two ways: 1. Standardization 2.Normalization
-#outliers: 1. outlier detection 2. outlier removal
+</br>
+#scaling: two ways: 1. Standardization 2.Normalization</br>
+
+#outliers: 1. outlier detection 2. outlier removal</br>
 #outlier detection: 2 techniques:
-             #QRIQR #z-score
-#outlier remval: 1. trimming 2. scapping
+             #QRIQR #z-score</br>
+#outlier remval: 1. trimming 2. scapping</br>
+</p>
+#feature transformers:</p>br>
+#power transformer</p>
+#log --""--</br>
+#Cox --""--</br>
+</p>
+#feature selection / extraction:</br>
+#principle component of feature selection</p>
 
-#feature transformers:
-#power transformer
-#log --""--
-#Cox --""--
+#feature constraction:</br>
+#date,time</br>
+</p>
+#data splitting:</br>
+#data train, set, splitting</br>
+</p>
+#train set splitting:</br>
+#algorims: 1. Regression 2. Classification</p>
 
-#feature selection / extraction:
-#principle component of feature selection
-
-#feature constraction:
-#date,time
-
-#data splitting:
-#data train, set, splitting
-
-#train set splitting:
-#algorims: 1. Regression 2. Classification
-
-#Regression Problem:
-#linear Regression (numerical value)
+#Regression Problem:</br>
+#linear Regression (numerical value)</p>
 
