@@ -1,16 +1,17 @@
 # SAP_AI-ML-DL
 This REPO contains notes of AI ML DL training in SAP
 
-#steps in Machine learning or Deep learning
-#step1: data injestion
-#step2: data cleaning
-#step3: preprocessing / EDA
-#step4: model building
 
-#steps in data cleaning:
-#null values,duplicate rows, unintended rows
+#steps in Machine learning or Deep learning</br>
+#step1: data injestion</br>
+#step2: data cleaning</br>
+#step3: preprocessing / EDA </br>
+#step4: model building </br>
 
-#steps in preprocessing:
+#steps in data cleaning:</br>
+#null values,duplicate rows, unintended rows</br>
+
+#steps in preprocessing:</p>
 #scaling: two ways: 1. Standardization 2.Normalization
 #outliers: 1. outlier detection 2. outlier removal
 #outlier detection: 2 techniques:
